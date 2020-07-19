@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, human! 👋 What's up?
+- I'm an **IFMA student**
+- I'm currently learning the **C language**
+- I'm currently working on **encryption**
+- Instagram: [*@david_gomesh*](https://www.instagram.com/david_gomesh/)
 
 <!--
 **DavidGomesh/DavidGomesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
