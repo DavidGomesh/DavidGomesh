@@ -1,6 +1,6 @@
 ### Hello, human! 👋 What's up?
 - :mortar_board: I'm an **IFMA student**
-- :books: I'm currently learning the **C, C++ and C# language** and **Game Development**
+- :books: I'm currently learning the **C and Java**
 - :mag_right: I'm currently working on **Personal Projects**
 - :camera: **Instagram:** [*@david_gomesh*](https://www.instagram.com/david_gomesh/)
 
