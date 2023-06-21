@@ -1,6 +1,5 @@
 # Hello, World! 🌎
 
-A knowledge hunter!<br>
 **Focused on studies:** my addiction is learning, and teaching is my pleasure.<br>
 
 Currently, I'm enhancing my knowledge in systems engineering.<br>
