@@ -7,9 +7,9 @@ Currently, I'm enhancing my knowledge in systems engineering.
 My favorite language is **Java** and all its involvement with **OOP** and **Clean Code**. My goal is to become a great backend developer.<br>
 
 ## Academic Education
-- **Computer Technician:** IFMA (2016 - 2019)
-- **Bachelor's degree in Information Systems:** IFMA (2019 - [...])
-- **Master's degree in Software Engineering:** ISEP (2019 - [...])
+- **Computer Technician:** IFMA (2019)
+- **Bachelor's degree in Information Systems:** IFMA ([...])
+- **Master's degree in Software Engineering:** ISEP ([...])
 
 ## Experience
 
