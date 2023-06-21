@@ -1,28 +1,22 @@
-## Hello, human! 👋 What's up?
-- :mortar_board: I'm an **IFMA student**
-- :books: I'm currently learning the **Spring Boot Framework**
-- :mag_right: I'm currently working on **Personal Projects**
-- :camera: **Instagram:** [*@david_gomesh*](https://www.instagram.com/david_gomesh/)
+# Hello, World!
 
----
+A knowledge hunter!<br>
+**Focused on studies:** my addiction is learning, and teaching is my pleasure.<br>
 
-<div>
-    <a href="https://github.com/DavidGomesh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidGomesh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGomesh&layout=compact&theme=dracula"/>
-</div>
+Currently, I'm enhancing my knowledge in systems engineering.
+My favorite language is **Java** and all its involvement with **OOP** and **Clean Code**. My goal is to become a great backend developer.<br>
 
-<!--
-**DavidGomesh/DavidGomesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Academic Education
+- **Computer Technician:** IFMA (2016 - 2019)
+- **Bachelor's degree in Information Systems:** IFMA (2019 - [...])
+- **Master's degree in Software Engineering:** ISEP (2019 - [...])
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Civil Police of Maranhão
+**Position:** FullStack Developer<br>
+**Technologies:** Spring Boot + Bootstrap + JS Libraries + Postgres<br>
+
+### D2TI
+**Position:** Database Developer<br>
+**Technologies:** Oracle<br>
