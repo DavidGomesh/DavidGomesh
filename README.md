@@ -1,7 +1,6 @@
 # Hello, World! 🌎
 
 **Focused on studies:** my addiction is learning, and teaching is my pleasure.<br>
-
 Currently, I'm enhancing my knowledge in systems engineering.<br>
 My favorite language is **Java** and all its involvement with **OOP** and **Clean Code**.<br>
 My goal is to become a great backend developer.<br>
