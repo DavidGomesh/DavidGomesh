@@ -1,9 +1,9 @@
 # Hello, World! 🌎
 
 **Focused on studies:** my addiction is learning, and teaching is my pleasure.<br>
-Currently, I'm enhancing my knowledge in systems engineering.<br>
-My favorite language is **Java** and all its involvement with **OOP** and **Clean Code**.<br>
-My goal is to become a great backend developer.<br>
+Currently, I'm **enhancing my knowledge** about **systems engineering**.<br>
+**I love Java** and all its involvement with **OOP** and **Clean Code**.<br>
+My **goal** is to become a great **Software Engineer**.<br>
 
 ## Academic Education 📚
 - **Computer Technician:** IFMA <img width="15" height="15" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/>
