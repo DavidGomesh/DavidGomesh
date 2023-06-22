@@ -13,13 +13,11 @@ My goal is to become a great backend developer.<br>
 
 ## Experience 🏢
 
-### Civil Police of Maranhão
-**Position:** FullStack Developer<br>
-**Technologies:** Spring Boot + Bootstrap + JS Libraries + Postgres<br>
+- **<span style="font-size: 1.1rem;">Civil Police of Maranhão</span><br>**
+FullStack Developer (Spring Boot + Bootstrap + JS Libraries + Postgres)<br>
 
-### D2TI
-**Position:** Database Developer<br>
-**Technologies:** Oracle<br>
+- **<span style="font-size: 1.1rem;">D2TI</span><br>**
+Database Developer (Oracle)<br>
 
 -----
 **Instagram:** [*@david_gomesh*](https://www.instagram.com/david_gomesh)<br>
