@@ -7,9 +7,9 @@ My favorite language is **Java** and all its involvement with **OOP** and **Clea
 My goal is to become a great backend developer.<br>
 
 ## Academic Education 📚
-- **Computer Technician:** IFMA (2019)
-- **Bachelor's degree in Information Systems:** IFMA ([...])
-- **Master's degree in Software Engineering:** ISEP ([...])
+- **Computer Technician:** IFMA <img width="15" height="15" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/>
+- **Bachelor's degree in Information Systems:** IFMA <img width="15" height="15" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/>
+- **Master's degree in Software Engineering:** ISEP <img width="15" height="15" src="https://img.icons8.com/color/48/portugal-circular.png" alt="portugal-circular"/>
 
 ## Experience 🏢
 
@@ -20,3 +20,7 @@ My goal is to become a great backend developer.<br>
 ### D2TI
 **Position:** Database Developer<br>
 **Technologies:** Oracle<br>
+
+-----
+**Instagram:** [*@david_gomesh*](https://www.instagram.com/david_gomesh)<br>
+*<a href="https://icons8.com/icon/zHmH8HpOmM90/brasil">Brazil</a> and <a href="https://icons8.com/icon/YH8SIHwSmghn/portugal">Portugal</a> icon by <a href="https://icons8.com">Icons8</a>*
