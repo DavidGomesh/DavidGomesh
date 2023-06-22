@@ -1,6 +1,6 @@
 # Hello, World! 🌎
 
-**Focused on studies:** my addiction is learning, and teaching is my pleasure.<br>
+**Focused on studies:** my addiction is **learning**, and **teaching** is my pleasure.<br>
 Currently, I'm **enhancing my knowledge** about **systems engineering**.<br>
 **I love Java** and all its involvement with **OOP** and **Clean Code**.<br>
 My **goal** is to become a great **Software Engineer**.<br>
