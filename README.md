@@ -10,13 +10,13 @@
 - **Bachelor's degree in Information Systems:** IFMA <img width="15" height="15" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/>
 - **Master's degree in Software Engineering:** ISEP <img width="15" height="15" src="https://img.icons8.com/color/48/portugal-circular.png" alt="portugal-circular"/>
 
-## Experience 🏢
+## Professional Experience 🏢
 
 - **<span style="font-size: 1.1rem;">Civil Police of Maranhão</span><br>**
-FullStack Developer (Spring Boot + Bootstrap + JS Libraries + Postgres)<br>
+*FullStack Developer (Spring Boot + Bootstrap + JS Libraries + PostgreSQL)*<br>
 
 - **<span style="font-size: 1.1rem;">D2TI</span><br>**
-Database Developer (Oracle)<br>
+*Database Developer (Oracle)*<br>
 
 -----
 **Instagram:** [*@david_gomesh*](https://www.instagram.com/david_gomesh)<br>
