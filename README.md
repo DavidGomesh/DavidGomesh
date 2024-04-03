@@ -1,8 +1,7 @@
 # Hello, World! 🌎
 
 - **Focused on studies:** my addiction is **learning**, and **teaching** is my pleasure.<br>
-- Currently, I'm **enhancing my knowledge** about **systems engineering**.<br>
-- **I love Java** and all its involvement with **OOP** and **Clean Code**.<br>
+- Currently, I'm **enhancing my knowledge** about **functional programming**.<br>
 - My **goal** is to become a great **Software Engineer**.<br>
 
 ## Academic Education 📚
@@ -12,11 +11,11 @@
 
 ## Professional Experience 🏢
 
-- **<span style="font-size: 1.1rem;">Civil Police of Maranhão</span><br>**
-*FullStack Developer (Spring Boot + Bootstrap + JS Libraries + PostgreSQL)*<br>
+- **<span style="font-size: 1.1rem;">Civil Police of Maranhão (FullStack Developer)</span><br>**
+*(Spring Boot + Bootstrap + JS Libraries + PostgreSQL)*<br>
 
-- **<span style="font-size: 1.1rem;">D2TI</span><br>**
-*Database Developer (Oracle)*<br>
+- **<span style="font-size: 1.1rem;">D2TI (Database Developer)</span><br>**
+*(Oracle Database)*<br>
 
 <!--
 -----
