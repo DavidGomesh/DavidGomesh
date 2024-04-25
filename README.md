@@ -5,9 +5,9 @@
 - My **goal** is to become a great **Software Engineer**.<br>
 
 ## Academic Education 📚
-- **Computer Technician:** IFMA <img width="15" height="15" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/>
-- **Bachelor's degree in Information Systems:** IFMA <img width="15" height="15" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/>
-- **Master's degree in Software Engineering:** ISEP <img width="15" height="15" src="https://img.icons8.com/color/48/portugal-circular.png" alt="portugal-circular"/>
+- **<img width="15" height="15" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/> Computer Technician (IFMA)**
+- **<img width="15" height="15" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/> Bachelor's degree in Information Systems (IFMA)**
+- **<img width="15" height="15" src="https://img.icons8.com/color/48/portugal-circular.png" alt="portugal-circular"/> Master's degree in Software Engineering (ISEP)**
 
 ## Professional Experience 🏢
 
